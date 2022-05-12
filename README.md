@@ -25,3 +25,4 @@ THEN I am again presented with current and future conditions for that city
 Contributing: Anyone can contribute.
 
 Contact: TWITTER: @sadiqumarajiya7 - EMAIL: Sadiqumarajiya123@gmail.com PROJECT LINK:https://github.com/SadiqUmar02/Homework06.git
+Live URL:https://sadiqumar02.github.io/Homework06/
